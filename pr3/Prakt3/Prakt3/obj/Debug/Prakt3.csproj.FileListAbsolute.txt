@@ -1,0 +1,7 @@
+D:\KOLEDJ\KURS4\Program\pr3\Prakt3\Prakt3\bin\Debug\Prakt3.exe.config
+D:\KOLEDJ\KURS4\Program\pr3\Prakt3\Prakt3\bin\Debug\Prakt3.exe
+D:\KOLEDJ\KURS4\Program\pr3\Prakt3\Prakt3\bin\Debug\Prakt3.pdb
+D:\KOLEDJ\KURS4\Program\pr3\Prakt3\Prakt3\obj\Debug\Prakt3.csproj.AssemblyReference.cache
+D:\KOLEDJ\KURS4\Program\pr3\Prakt3\Prakt3\obj\Debug\Prakt3.csproj.CoreCompileInputs.cache
+D:\KOLEDJ\KURS4\Program\pr3\Prakt3\Prakt3\obj\Debug\Prakt3.exe
+D:\KOLEDJ\KURS4\Program\pr3\Prakt3\Prakt3\obj\Debug\Prakt3.pdb
